@@ -38,3 +38,11 @@ C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Dr
 C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
 C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
 C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Common.dll
+C:\Users\andre\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
